@@ -4,7 +4,7 @@
   >
     <!-- Login Container -->
     <div>
-      <img class="w-48 m-8" src="../../public/images/Keiryan.png"
+      <img class="w-48 m-8" src="/images/Keiryan.png"
       alt="login-rounded-right--v1"
     </div>
     <div class="">
